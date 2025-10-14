@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 🌐 **[Visit My Portfolio](https://portfolio-jhr5.vercel.app/)** 🌐
+### 🌐 **[Visit My Portfolio](https://portfolio-jobayerhasan.vercel.app/)** 🌐
 
 </div>
 
@@ -147,7 +147,7 @@
 
 ### 🚀 *"Code. Create. Innovate. Repeat."*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-jhr5.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-jhr5.vercel.app/](https://portfolio-jobayerhasan.vercel.app/)
 
 **Thanks for visiting! Let's build something amazing together! 🌟**
 
