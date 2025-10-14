@@ -147,7 +147,11 @@
 
 ### 🚀 *"Code. Create. Innovate. Repeat."*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-jhr5.vercel.app/](https://portfolio-jobayerhasan.vercel.app/)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-jobayerhasan.vercel.app/)
+
+</div>
 
 **Thanks for visiting! Let's build something amazing together! 🌟**
 
