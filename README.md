@@ -1,159 +1,114 @@
 <div align="center">
-  
-<!-- Hexagon Pattern Background -->
-<img width="100%" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Background"/>
 
-<!-- Animated Typing Text - Slower Speed -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&pause=1000&lines=Hey!+I'm+MD.+Jobayer+Hasan;CS+Student+at+BRAC+University;Tech+Enthusiast;Future+AI+Developer;Building+the+Future+with+Code!" />
-</h1>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070708,45:e8743b,100:d8527c&height=210&section=header&text=MD.%20JOBAYER%20HASAN&fontSize=54&fontColor=f2efe9&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Security-minded&descSize=18&descAlignY=58&animation=fadeIn" alt="MD. Jobayer Hasan"/>
 
-<!-- Subtitle with slower animation -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=800&height=50&duration=5000&pause=2000&color=00D9FF&lines=Passionate+about+AI%2C+Game+Development+%26+Mobile+Apps;Always+Learning%2C+Always+Growing%2C+Always+Coding;Ready+to+Innovate+and+Create+Amazing+Things!" />
-</h2>
+<!-- Animated terminal line -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=900&color=F2B14C&center=true&vCenter=true&width=760&height=48&lines=%3E+booting+jobayer.exe+...;%3E+CS+graduate+%40+BRAC+University+(2026);%3E+full-stack+%7C+computer+vision+%7C+cybersecurity;%3E+status%3A+open+to+work" alt="Typing intro"/>
+
+<br/>
+
+<a href="https://portfolio-jobayerhasan.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20Launch%20Portfolio-070708?style=for-the-badge&logo=vercel&logoColor=F2B14C&labelColor=070708&color=e8743b" alt="Launch portfolio"/></a>
+<a href="mailto:jobayer9948@gmail.com"><img src="https://img.shields.io/badge/Email-070708?style=for-the-badge&logo=gmail&logoColor=F2B14C" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/md-jobayer-hasan-9634082aa/"><img src="https://img.shields.io/badge/LinkedIn-070708?style=for-the-badge&logo=linkedin&logoColor=3FB6C4" alt="LinkedIn"/></a>
+<a href="https://twitter.com/jobayerhasanrifat"><img src="https://img.shields.io/badge/Twitter-070708?style=for-the-badge&logo=x&logoColor=f2efe9" alt="Twitter"/></a>
+<a href="https://www.instagram.com/jobaaayer"><img src="https://img.shields.io/badge/Instagram-070708?style=for-the-badge&logo=instagram&logoColor=D8527C" alt="Instagram"/></a>
+<a href="https://www.facebook.com/share/16gqwgwHLb/"><img src="https://img.shields.io/badge/Facebook-070708?style=for-the-badge&logo=facebook&logoColor=3FB6C4" alt="Facebook"/></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Jobayer-hasan-rifat&label=Profile%20views&color=e8743b&style=for-the-badge" alt="Profile views"/>
 
 </div>
+
+<br/>
+
+## `> whoami`
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Hacker cat"/>
+
+- 🎓 **BSc in Computer Science**, BRAC University (September 2026)
+- ⚙️ Building **full-stack web apps** with React, Node.js/Express and Flask, backed by MongoDB, MySQL and Supabase
+- 🔐 REST APIs with **JWT auth**, **role-based access control** and real-time features over **Socket.io**
+- 🧠 Thesis: **Automated Visual Inspection for Industrial Environments**, CNN-based defect detection in PyTorch and TensorFlow
+- 🛡️ Currently levelling up in **cybersecurity**: web security, networking and hands-on labs
+- 📍 Dhaka, Bangladesh
+
+<br clear="right"/>
+
+## `> ls ./projects --live`
+
+| | Project | What it does | Stack |
+|:--:|---|---|---|
+| 🎮 | [**E-Tournament**](https://e-tournament-web-prod.up.railway.app/) · [repo](https://github.com/Jobayer-hasan-rifat/Esports-Tournament-Website) | Esports platform where organisers create tournaments and players register | PHP · MySQL |
+| 🎓 | [**BRACU Eureka**](https://bracueureka.vercel.app/) · [repo](https://github.com/Jobayer-hasan-rifat/Bracu-Lost-Found) | Campus lost and found, peer-to-peer marketplace, and ride and bus booking | React · Flask · MongoDB · Socket.io |
+| 🛠️ | [**KajLagbe**](https://kajlagbe.vercel.app) · [repo](https://github.com/Jobayer-hasan-rifat/KajLagbe) | Service marketplace with role-based access for seekers, providers and admins | MERN · JWT · Helmet |
+| ✍️ | [**Connecto**](https://connecto007.vercel.app/) · [repo](https://github.com/Jobayer-hasan-rifat/Connecto) | Full-stack blog with auth, post management and an admin dashboard | React · Node.js · Express |
+| 📓 | [**JournIQ**](https://journalq.vercel.app) · [repo](https://github.com/Jobayer-hasan-rifat/JournIQ) | Personal journal for reflection and mood tracking | React · Node.js |
+| 🔬 | [**GradCAM Defect Detection**](https://github.com/Jobayer-hasan-rifat/GradCam-Implementation-In-Industrial-Product-For-Defect-Detection) | Explainable CNN defect detection for industrial products | Python · PyTorch |
+
+## `> cat stack.json`
 
 <div align="center">
 
-### 🌐 **[Visit My Portfolio](https://portfolio-jobayerhasan.vercel.app/)** 🌐
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,threejs&perline=9" alt="Frontend"/>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel&perline=9" alt="Backend"/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&perline=9" alt="Databases"/>
+
+**AI and machine learning**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=9" alt="AI and ML"/>
+
+**Cybersecurity** <sub>`learning`</sub><br/>
+<img src="https://skillicons.dev/icons?i=kali,wireshark,burpsuite,bash,linux&perline=9" alt="Cybersecurity"/>
+
+**Tools and platforms**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,vscode&perline=9" alt="Tools"/>
+
+**Also explored**<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,kotlin,aws,firebase,unity,unreal,blender,figma&perline=9" alt="Also explored"/>
 
 </div>
 
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-- 🎓 **Final Year Computer Science Student** at BRAC University
-- 🌱 Currently diving deep into **AI/ML, Game Development & Mobile Apps**
-- 🎯 Future Goals: Building intelligent systems and immersive gaming experiences
-- 💡 Always exploring new technologies and pushing boundaries
-- 🔭 Working on innovative projects that blend creativity with technology
-- 📚 Continuous learner with a passion for problem-solving
-
----
-
-## 🛠️ Tech Arsenal
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-### **Web Development**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-
-### **Cloud & Database**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Data Science & AI** *(Expanding)*
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-### **Game Development** *(Learning)*
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-### **Tools & Design**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+## `> git log --stats`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jobayer-hasan-rifat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer-hasan-rifat&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jobayer-hasan-rifat&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=070708&title_color=F2B14C&icon_color=E8743B" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobayer-hasan-rifat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=070708&title_color=F2B14C" alt="Top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Jobayer-hasan-rifat&theme=tokyonight&hide_border=true&background=070708&ring=E8743B&fire=F2B14C&currStreakLabel=F2B14C" alt="GitHub streak"/>
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jobayer-hasan-rifat&theme=tokyo-night&hide_border=true&bg_color=070708&color=F2B14C&line=E8743B&point=D8527C" alt="Contribution graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jobayer-hasan-rifat&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+## `> about --this-repo`
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jobayer-hasan-rifat&theme=tokyo-night" alt="Contribution Graph"/>
-</div>
+The source of my portfolio: a scroll-driven, space-themed one-pager.
 
----
+- **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind v4 · React Three Fiber · Framer Motion · Lenis
+- **Scene:** a rotating Milky Way on the hero, then a 3D solar system with orbiting planets behind every other section
+- **Live data:** projects, stats and the contribution graph come from GitHub, with a snake that eats the green squares
+- **Run it locally:**
 
-## 💭 Wisdom Corner
+```bash
+npm install
+npm run dev
+```
+
+<br/>
 
 <div align="center">
 
-*"The best way to predict the future is to invent it."* - **Alan Kay**
+> *"Talk is cheap. Show me the code."*<br/>— **Linus Torvalds**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> *"First, solve the problem. Then, write the code."*<br/>— **John Johnson**
 
-</div>
+> *"AI is the new electricity."*<br/>— **Andrew Ng**
 
----
+> *"Security is a process, not a product."*<br/>— **Bruce Schneier**
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/md-jobayer-hasan-9634082aa/))
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([YOUR_TWITTER_URL](https://twitter.com/jobayerhasanrifat))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([YOUR_INSTAGRAM_URL](https://www.instagram.com/jobaaayer?igsh=eHF1cXc4Y3ZlZ2di))
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([YOUR_FACEBOOK_URL](https://www.facebook.com/share/16gqwgwHLb/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([YOUR_PORTFOLIO_URL](https://jobayer-hasan-rifat.github.io/))
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobayer9948@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d8527c,55:e8743b,100:070708&height=120&section=footer" alt=""/>
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-### 🌱 Currently Learning
-**AI/ML** • **Game Development** • **Mobile App Development**
-
-### 🚀 Future Goals  
-**Build AI Systems** • **Create Immersive Games** • **Develop Innovative Apps**
-
-### 💬 Ask Me About
-**Web Development** • **Problem Solving** • **Tech Innovation**
-
-### 🎉 Fun Fact
-*I debug with console.log() and I'm proud of it!* 🐛
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 *"Code. Create. Innovate. Repeat."*
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-jobayerhasan.vercel.app/)
-
-</div>
-
-**Thanks for visiting! Let's build something amazing together! 🌟**
-
-</div>
-
